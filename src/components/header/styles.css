@@ -1,0 +1,17 @@
+#menu{
+    margin-bottom: 20px;
+}
+
+.menu{
+    background-color: #222 !important;
+}
+
+.menu .item a{
+    margin-right: 20px !important;
+    color: #fff;
+}
+
+.menu .item a:hover{
+    text-decoration: none;
+    color: #888;
+}
